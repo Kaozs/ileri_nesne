@@ -1,0 +1,11 @@
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\bin\Debug\netcoreapp3.0\Uygulama 1.exe
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\bin\Debug\netcoreapp3.0\Uygulama 1.deps.json
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\bin\Debug\netcoreapp3.0\Uygulama 1.runtimeconfig.json
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\bin\Debug\netcoreapp3.0\Uygulama 1.runtimeconfig.dev.json
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\bin\Debug\netcoreapp3.0\Uygulama 1.dll
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\bin\Debug\netcoreapp3.0\Uygulama 1.pdb
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\obj\Debug\netcoreapp3.0\Uygulama 1.csprojAssemblyReference.cache
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\obj\Debug\netcoreapp3.0\Uygulama 1.AssemblyInfoInputs.cache
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\obj\Debug\netcoreapp3.0\Uygulama 1.AssemblyInfo.cs
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\obj\Debug\netcoreapp3.0\Uygulama 1.dll
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama 1\Uygulama 1\obj\Debug\netcoreapp3.0\Uygulama 1.pdb

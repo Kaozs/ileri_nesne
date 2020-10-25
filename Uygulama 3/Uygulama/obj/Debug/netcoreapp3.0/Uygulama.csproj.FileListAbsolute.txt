@@ -1,0 +1,11 @@
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\bin\Debug\netcoreapp3.0\Uygulama.exe
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\bin\Debug\netcoreapp3.0\Uygulama.deps.json
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\bin\Debug\netcoreapp3.0\Uygulama.runtimeconfig.json
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\bin\Debug\netcoreapp3.0\Uygulama.runtimeconfig.dev.json
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\bin\Debug\netcoreapp3.0\Uygulama.dll
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\bin\Debug\netcoreapp3.0\Uygulama.pdb
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\obj\Debug\netcoreapp3.0\Uygulama.csprojAssemblyReference.cache
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\obj\Debug\netcoreapp3.0\Uygulama.AssemblyInfoInputs.cache
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\obj\Debug\netcoreapp3.0\Uygulama.AssemblyInfo.cs
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\obj\Debug\netcoreapp3.0\Uygulama.dll
+C:\Users\ismail sabri kargı\Desktop\1.Ödev\Uygulama\Uygulama\obj\Debug\netcoreapp3.0\Uygulama.pdb
