@@ -1,0 +1,11 @@
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\bin\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.exe
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\bin\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.deps.json
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\bin\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.runtimeconfig.json
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\bin\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.runtimeconfig.dev.json
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\bin\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.dll
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\bin\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.pdb
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\obj\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.csprojAssemblyReference.cache
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\obj\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.AssemblyInfoInputs.cache
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\obj\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.AssemblyInfo.cs
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\obj\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.dll
+C:\Users\ismail sabri kargı\Desktop\2. Sene Dersler\İleri NesneTabanlı\Dikdörtgen alan ve cevre hesaplama\Dikdörtgen alan ve cevre hesaplama\obj\Debug\netcoreapp3.0\Dikdörtgen alan ve cevre hesaplama.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Dikdörtgen alan ve cevre hesaplama/1.0.0": {
+        "runtime": {
+          "Dikdörtgen alan ve cevre hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dikdörtgen alan ve cevre hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
