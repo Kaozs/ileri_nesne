@@ -1,0 +1,79 @@
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojResolveAssemblyReference.cache
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.Cache
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
+c:\users\ramazan\documents\visual studio 2015\Projects\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojResolveAssemblyReference.cache
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+C:\Users\SALMANOVIC\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.Cache
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojResolveAssemblyReference.cache
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+C:\Users\İSMAİL SALMAN\Desktop\c# proje\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.Cache
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojResolveAssemblyReference.cache
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+C:\Users\İSMAİL SALMAN\Pictures\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.Cache
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojResolveAssemblyReference.cache
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+C:\Users\ramazan\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.Cache
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojResolveAssemblyReference.cache
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.Cache
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.CoreCompileInputs.cache
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+C:\Users\M.Arif\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe.config
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.exe
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\bin\Debug\SmartGarderobe.pdb
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csprojAssemblyReference.cache
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form1.resources
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form2.resources
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Form3.resources
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.Properties.Resources.resources
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.GenerateResource.cache
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.csproj.CoreCompileInputs.cache
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.exe
+C:\Users\serkan yılmaz\Desktop\SmartGarderobe\SmartGarderobe\obj\Debug\SmartGarderobe.pdb
